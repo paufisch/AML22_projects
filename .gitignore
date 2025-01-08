@@ -8,3 +8,6 @@
 *.zip
 *.txt
 *.jpg
+*mean
+*std
+*y_train1
